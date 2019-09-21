@@ -3,6 +3,9 @@ package life.majiang.community111;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author yjy
+ */
 @SpringBootApplication
 public class CommunityApplication {
 
