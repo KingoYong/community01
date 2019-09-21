@@ -1,8 +1,8 @@
-package life.majiang.community111.provider;
+package life.majiang.community2.provider;
 
 import com.alibaba.fastjson.JSON;
-import life.majiang.community111.dto.AccessTokenDTO;
-import life.majiang.community111.dto.GithubUser;
+import life.majiang.community2.dto.AccessTokenDTO;
+import life.majiang.community2.dto.GithubUser;
 import okhttp3.*;
 import org.springframework.stereotype.Component;
 

@@ -1,4 +1,4 @@
-package life.majiang.community111.dto;
+package life.majiang.community2.dto;
 
 /**
  * @description:

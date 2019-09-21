@@ -1,8 +1,8 @@
-package life.majiang.community111.controller;
+package life.majiang.community2.controller;
 
-import life.majiang.community111.dto.AccessTokenDTO;
-import life.majiang.community111.dto.GithubUser;
-import life.majiang.community111.provider.GithubProvider;
+import life.majiang.community2.dto.AccessTokenDTO;
+import life.majiang.community2.dto.GithubUser;
+import life.majiang.community2.provider.GithubProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
