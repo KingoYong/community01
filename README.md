@@ -18,7 +18,8 @@ create table user
 	name varchar(50) null,
 	token char(36) null,
 	gmt_create bigint null,
-	gmt_modified bigint null
+	gmt_modified bigint null,
+	bio varchar(256) null
 );
 
 ```
